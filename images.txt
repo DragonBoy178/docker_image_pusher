@@ -1,4 +1,4 @@
-postgres:16.0
-redis:7.2.1  
+postgres:16.0-alpine3.18
+redis:7.2.1-alpine3.18
 opensearchproject/opensearch:2.6.0
 opensearchproject/opensearch-dashboards:2.6.0
