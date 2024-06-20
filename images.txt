@@ -3,3 +3,6 @@ redis:7.2.1-alpine3.18
 opensearchproject/opensearch:2.6.0
 opensearchproject/opensearch-dashboards:2.6.0
 node:20.7-alpine3.17
+
+
+pgvector/pgvector:pg16
