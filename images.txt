@@ -8,4 +8,5 @@ node:20.7-alpine3.17
 pgvector/pgvector:pg16
 
 nginx:latest
+debian:12
 
