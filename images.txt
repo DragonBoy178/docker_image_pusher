@@ -9,4 +9,4 @@ pgvector/pgvector:pg16
 
 nginx:latest
 debian:12
-ubutu:22.04
+ubuntu:22.04
