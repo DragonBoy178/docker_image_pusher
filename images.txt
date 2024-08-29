@@ -1,3 +1,4 @@
 registry:2.6
 python:3.10
 node:20-bookworm-slim
+nginx:1.26.2
