@@ -4,3 +4,4 @@ node:20-bookworm-slim
 nginx:1.26.2
 gitlab/gitlab-ee:16.11.8-ee.0
 continuumio/anaconda3
+pytorch/pytorch:2.4.1-cuda11.8-cudnn9-devel
