@@ -7,3 +7,5 @@ continuumio/anaconda3
 continuumio/anaconda3:2024.02-1
 pytorch/pytorch:2.4.1-cuda11.8-cudnn9-devel
 atlassian/confluence-server:latest
+mysql:5.7
+mysql:8.0-bookworm
