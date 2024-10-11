@@ -10,3 +10,4 @@ atlassian/confluence-server:latest
 mysql:5.7
 mysql:8.0-bookworm
 cptactionhank/atlassian-confluence:latest
+mysql:5.7.40
