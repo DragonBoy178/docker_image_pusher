@@ -9,3 +9,4 @@ pytorch/pytorch:2.4.1-cuda11.8-cudnn9-devel
 atlassian/confluence-server:latest
 mysql:5.7
 mysql:8.0-bookworm
+cptactionhank/atlassian-confluence:latest
