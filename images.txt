@@ -14,3 +14,4 @@ mysql:5.7.40
 pytorch/pytorch:2.4.1-cuda12.1-cudnn9-runtime
 continuumio/miniconda3:24.5.0-0
 python:3.10.15-slim-bookworm
+ollama/ollama:latest
