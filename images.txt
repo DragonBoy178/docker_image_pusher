@@ -18,3 +18,4 @@ ollama/ollama:0.5.1
 hello-world
 nvidia/cuda:12.3.2-runtime-ubuntu22.04
 mysql:8.0.36-bookworm
+gitlab/gitlab-ee:17.6.1-ee.0
