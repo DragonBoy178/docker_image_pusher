@@ -19,3 +19,4 @@ hello-world
 nvidia/cuda:12.3.2-runtime-ubuntu22.04
 mysql:8.0.36-bookworm
 gitlab/gitlab-ee:17.6.1-ee.0
+milvusdb/milvus:v2.5.7
