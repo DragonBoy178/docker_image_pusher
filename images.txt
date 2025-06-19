@@ -16,7 +16,7 @@ continuumio/miniconda3:24.5.0-0
 python:3.10.15-slim-bookworm
 ollama/ollama:0.5.1
 hello-world
-nvidia/cuda:12.3.2-runtime-ubuntu22.04
+nvidia/cuda:12.1.1-cudnn8-devel-ubuntu22.04
 mysql:8.0.36-bookworm
 gitlab/gitlab-ee:17.6.1-ee.0
 milvusdb/milvus:v2.5.7
