@@ -35,3 +35,4 @@ nvidia/cuda:11.8.0-cudnn8-devel-ubuntu22.04
 vllm/vllm-openai:v0.10.1.1
 
 xhofe/alist:v3.60.0
+xhofe/alist:v3.60.0-aio
